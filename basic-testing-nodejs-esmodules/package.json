@@ -8,6 +8,7 @@
     "test": "vitest"
   },
   "keywords": [],
+  "author": "Mastoora Turkmen",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.3"
