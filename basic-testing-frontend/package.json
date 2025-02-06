@@ -9,6 +9,7 @@
     "start": "http-server -c-1"
   },
   "keywords": [],
+  "author": "Mastoora Turkmen",
   "license": "ISC",
   "devDependencies": {
     "http-server": "^14.1.0",
